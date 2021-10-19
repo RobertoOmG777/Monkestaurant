@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #c9e8f1;
+  background-image: url(portada.jpg);
+  margin: 0;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+img {
+  width: 100%;
+  object-fit: contain;
+}
